@@ -1,0 +1,8 @@
+@import url(./bootstrap.min.css);
+@import url(./config.css);
+@import url(./global.css);
+@import url(./custom.css);
+@import url(./responsive.css);
+@import url(./owl/owl.carousel.min.css);
+@import url(./owl/owl.theme.default.min.css);
+@import url(./magnific-popup.css);
